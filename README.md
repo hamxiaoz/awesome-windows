@@ -6,6 +6,7 @@
 
 - [Applications](#applications)
   - [Compression](#compression)
+  - [Data Recovery](#data-recovery)
   - [Documents](#documents)
   - [Developers](#developers)
   - [E-Book Utilities](#e-book-utilities)
@@ -14,6 +15,7 @@
   - [Imaging](#imaging)
   - [Media](#media)
   - [Productivity](#productivity)
+  - [Terminal](#terminal)
   - [Utilities](#utilities)
   - [Others](#others)
 - [Contribute](#contribute)
