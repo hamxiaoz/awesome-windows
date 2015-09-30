@@ -23,6 +23,12 @@
 
 ## Applications
 
+### Audio
+
+- [AIMP](http://www.aimp.ru/) - Audio player.
+- [Audacity](http://audacityteam.org/) - Audio Editor and Recorder.
+- [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files.
+
 ### Compression
 
 - [7-Zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked.
