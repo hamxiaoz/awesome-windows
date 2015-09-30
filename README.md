@@ -52,6 +52,14 @@
 - [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code.
 - [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
 
+### Imaging
+
+- [FastStone](http://www.faststone.org/) - Image Viewer, Screen Capture, Photo Resizer.
+- [GIMP](http://www.gimp.org/) - The GNU Image Manipulation Program.
+- [Greenshot](http://getgreenshot.org/) - A screenshot tool.
+- [IrfanView](http://www.irfanview.com/) - One of the most popular viewers worldwide.
+- [Paint.NET](http://www.getpaint.net/index.html) - Image and photo editing software for PCs
+
 ### Productivity
 
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows
