@@ -74,6 +74,11 @@
 - [Listery](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software.
 
+### Terminal
+
+- [Cmder](https://github.com/cmderdev/cmder) - Console emulator package.
+- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
+
 ### Video
 
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
