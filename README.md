@@ -48,7 +48,7 @@
 
 ### E-Book Utilities
 
-- [Calibre](http://calibre-ebook.com/) - Powerful software for e-book management and conversion. 
+- [Calibre](http://calibre-ebook.com/) - Powerful software for e-book management and conversion.
 
 ### Editors
 
@@ -78,3 +78,13 @@
 
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
 - [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
+
+## Contribute
+
+Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
