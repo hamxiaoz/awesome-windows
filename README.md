@@ -44,6 +44,14 @@
 
 - [Calibre](http://calibre-ebook.com/) - Powerful software for e-book management and conversion. 
 
+### Editors
+
+- [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
+- [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
+- [Eclipse](https://eclipse.org/downloads/) - A powerful IDE.
+- [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code.
+- [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
+
 ### Productivity
 
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows
