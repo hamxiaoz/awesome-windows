@@ -33,3 +33,9 @@
 
 - [Data Rescue](https://www.prosofteng.com/datarescuepc3/) - Hard drive recovery software that can recover your photos, videos, documents.
 - [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
+
+### Documents
+
+- [Foxit Reader](https://www.foxitsoftware.com/products/pdf-reader/) - The Secure PDF Reader.
+- [LibreOffice](https://www.libreoffice.org/) - Open source office suite.
+- [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more.
