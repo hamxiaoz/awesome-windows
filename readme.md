@@ -69,6 +69,7 @@
 ### Productivity
 
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows
+- [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
 - [Gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer.
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher.
 - [Listery](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
@@ -79,10 +80,14 @@
 - [Cmder](https://github.com/cmderdev/cmder) - Console emulator package.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
 
+### Utilities
+
 ### Video
 
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
 - [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
+
+### Others
 
 
 ## Developer Tools
