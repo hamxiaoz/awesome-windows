@@ -73,3 +73,8 @@
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher.
 - [Listery](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software.
+
+### Video
+
+- [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
+- [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
