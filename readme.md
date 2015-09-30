@@ -9,7 +9,6 @@
   - [Compression](#compression)
   - [Data Recovery](#data-recovery)
   - [Documents](#documents)
-  - [Developers](#developers)
   - [E-Book Utilities](#e-book-utilities)
   - [Editors](#editors)
   - [Imaging](#imaging)
@@ -18,6 +17,7 @@
   - [Utilities](#utilities)
   - [Video](#video)
   - [Others](#others)
+- [Developer Tools](#developer-tools)
 - [Contribute](#contribute)
 
 
@@ -83,6 +83,17 @@
 
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
 - [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
+
+
+## Developer Tools
+
+- [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
+- [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client.
+- [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
+- [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
+- [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
+- [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
+- [Wamp](http://www.wampserver.com/en/) - Web development environment.
 
 ## Contribute
 
