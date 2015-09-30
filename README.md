@@ -5,18 +5,18 @@
 ## Table of Contents
 
 - [Applications](#applications)
+  - [Audio](#audio)
   - [Compression](#compression)
   - [Data Recovery](#data-recovery)
   - [Documents](#documents)
   - [Developers](#developers)
   - [E-Book Utilities](#e-book-utilities)
   - [Editors](#editors)
-  - [File Sharing](#file-sharing)
   - [Imaging](#imaging)
-  - [Media](#media)
   - [Productivity](#productivity)
   - [Terminal](#terminal)
   - [Utilities](#utilities)
+  - [Video](#video)
   - [Others](#others)
 - [Contribute](#contribute)
 
