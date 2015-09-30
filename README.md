@@ -39,3 +39,7 @@
 - [Foxit Reader](https://www.foxitsoftware.com/products/pdf-reader/) - The Secure PDF Reader.
 - [LibreOffice](https://www.libreoffice.org/) - Open source office suite.
 - [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more.
+
+### E-Book Utilities
+
+- [Calibre](http://calibre-ebook.com/) - Powerful software for e-book management and conversion. 
