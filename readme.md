@@ -42,9 +42,9 @@
 
 ### Documents
 
-- [Foxit Reader](https://www.foxitsoftware.com/products/pdf-reader/) - The Secure PDF Reader.
 - [LibreOffice](https://www.libreoffice.org/) - Open source office suite.
 - [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more.
+- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader.
 
 ### E-Book Utilities
 
