@@ -56,6 +56,7 @@
 - [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
 - [Eclipse](https://eclipse.org/downloads/) - A powerful IDE.
 - [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code.
+- [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages.
 - [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
 
 ### Imaging
