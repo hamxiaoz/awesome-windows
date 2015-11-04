@@ -39,7 +39,8 @@
 
 - [Data Rescue](https://www.prosofteng.com/datarescuepc3/) - Hard drive recovery software that can recover your photos, videos, documents.
 - [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
-
+- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
+- 
 ### Documents
 
 - [LibreOffice](https://www.libreoffice.org/) - Open source office suite.
