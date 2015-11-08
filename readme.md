@@ -84,6 +84,7 @@
 ### Utilities
 
 - [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
+- [Long Path Fixer](http://corz.org/windows/software/accessories/Long-Path-Fixer-for-Windows.php) - Utility for moving, copying, renaming and deleting files and folders with Very Long Paths
 
 ### Video
 
