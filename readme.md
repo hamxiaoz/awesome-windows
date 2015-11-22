@@ -56,9 +56,11 @@
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
 - [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
 - [Eclipse](https://eclipse.org/downloads/) - A powerful IDE.
+- [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing.
 - [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code.
 - [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages.
 - [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
+
 
 ### Imaging
 
