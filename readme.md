@@ -77,6 +77,7 @@
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher.
 - [Listery](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software.
+- [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 
 ### Terminal
 
