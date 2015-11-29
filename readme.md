@@ -69,6 +69,7 @@
 - [Greenshot](http://getgreenshot.org/) - A screenshot tool.
 - [IrfanView](http://www.irfanview.com/) - One of the most popular viewers worldwide.
 - [Paint.NET](http://www.getpaint.net/index.html) - Image and photo editing software for PCs
+- [Snip](https://mix.office.com/Snip) - An image capture tool
 
 ### Productivity
 
