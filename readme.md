@@ -88,7 +88,7 @@
 ### Utilities
 
 - [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
-- [Long Path Fixer](http://corz.org/windows/software/accessories/Long-Path-Fixer-for-Windows.php) - Utility for moving, copying, renaming and deleting files and folders with Very Long Paths
+- [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
 
 ### Video
 
