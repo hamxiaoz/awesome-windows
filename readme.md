@@ -79,6 +79,7 @@
 - [Listery](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software.
 - [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+- [Wox](http://www.getwox.com/) - An effective launcher for windows
 
 ### Terminal
 
