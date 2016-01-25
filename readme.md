@@ -108,6 +108,7 @@
 - [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
 - [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
+- [Process Hacker](http://processhacker.sourceforge.net/) - Excellent full blown task manager.
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
 
