@@ -88,6 +88,7 @@
 - [Babun](http://babun.github.io/) - Alternative Windows shell based on Cygwin
 - [Cmder](https://github.com/cmderdev/cmder) - Console emulator package.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
+- [ConsoleZ](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering
 
 ### Utilities
 
